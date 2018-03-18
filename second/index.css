@@ -1,0 +1,65 @@
+.box1{
+border: 5px solid black;
+height: 20%;
+width: 90%;
+margin: auto;
+}
+.smallsquare{
+background-color: purple;
+height: 60%;
+width: 10%;
+display: inline-block;
+margin: 20px 20px 0px 20px;
+}
+.medsquare{
+    background-color: green;
+    height: 80%;
+    width: 40%;
+    display: inline-block;
+    margin: 20px 20px 0px 20px;
+}
+
+.circle{
+    background-color: blue;
+    border-radius: 50%;
+    height: 80%;
+    width: 20%;
+    display: inline-block;
+    margin: 20px 20px 0px 20px;
+}
+
+.box2{
+    border: 5px dotted black;
+    height: 25%;
+    width: 90%;
+    margin: 20px 20px 20px 55px;
+    }
+
+.shadowsquare{
+    box-shadow: 2px 2px 3px;
+    background-color: rgb(222, 229, 182);
+    height: 80%;
+    width: 95%;
+    display: inline-block;
+    margin: 20px 20px 0px 20px;
+}
+
+.box3{
+    border: 1px solid gray;
+    box-shadow: 2px 2px 3px;
+    height: 30%;
+    width: 50%;
+    margin: auto;
+    }
+
+.text{
+    padding: 60px 100px; 
+}
+
+h1{
+    width: 100%;
+    text-align: center;
+    color: navy;
+    letter-spacing: 10px;
+}
+
